@@ -10,25 +10,20 @@
 src ="https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
 </p>
 
+# My Interests
+- I make programs and Discord bots in Python.
+- I occasionally do Freelancing and make bots in Python just for fun.
+- My main focus is Python at the moment.
+
+# About Me
+- Itachi
+- India, Delhi
+- 16, Born 30/07/2005
+
+
 # Contacts
 
-
-[<img align="left" alt="itachi - Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-[<img align="left" alt="itachi - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="itachi - Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/protonmail.svg" />][email]
-<br />
-
-
-
-
-<p align="center">
-Currently Making Bots Or Stuff.
-
-
-
-
-
-[discord]: https://discord.gg/typ5URxYQF
-[twitter]: https://twitter.com/ItachiButDead
-[email]: Lonely1tachi.exe@pm.me
+- Discord - https://discord.gg/typ5URxYQF </br>
+- Twitter - @ItachiButDead </br>
+- Email - Lonely1tachi.exe@pm.me </br>
 

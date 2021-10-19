@@ -11,7 +11,7 @@ src ="https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
 </p>
 
 # My Interests
-- I make programs and Discord bots in Python.
+- I make programs and scripts in Python.
 - I occasionally do Freelancing and make bots in Python just for fun.
 - My main focus is Python at the moment.
 

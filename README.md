@@ -1,16 +1,27 @@
-### Hi there 👋
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/782612032142835733/900007819187724288/itachi-edotensei.gif">
+</p>
 
-<!--
-**NotiTacHi/NotiTacHi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hello, I'm Itachi (@NotiTacHi)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<img
+src ="https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
+</p>
+
+# Contacts
+
+ • Discord - LonelyItachi♡ᵃ#6837 </br>
+ • Twitter - ItachiButDead </br>
+ • Email - Lonely1tachi.exe@pm.me </br>
+
+
+
+
+
+
+
+
+<p align="center">
+Currently Making Bots Or Stuff.

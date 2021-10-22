@@ -26,4 +26,4 @@ src ="https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
 - Discord Server - https://discord.gg/typ5URxYQF </br>
 - Twitter - @ItachiButDead </br>
 - Email - Lonely1tachi.exe@pm.me </br>
-- Discord Username - itachi.#9999
+- Discord Username - 𝕏𝕆 ➣ corrupt#1724 

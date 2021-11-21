@@ -17,8 +17,8 @@ src ="https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
 
 # About Me
 - Itachi
-- India, Delhi
 - 16, Born 30/07/2005
+- I Like Anime
 
 
 # Contacts

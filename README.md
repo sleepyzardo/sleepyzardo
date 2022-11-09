@@ -7,7 +7,7 @@
 
 <p align="center">
 <img
-src ="https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
+src = "https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
 </p>
 
 # My Interests

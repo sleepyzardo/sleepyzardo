@@ -17,13 +17,13 @@ src ="https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
 
 # About Me
 - Itachi
-- 16, Born 30/07/2005
+- 16, Delhi
 - I Like Anime
 
 
 # Contacts
 
-- Discord Server - https://discord.gg/typ5URxYQF </br>
-- Twitter - @ItachiButDead </br>
+- Discord - abhii#5656 </br>
+- Twitter - @Itaxhi1221 </br>
 - Email - Lonely1tachi.exe@pm.me </br>
-- Discord Username - 𝕏𝕆 ➣ corrupt#1724 
+

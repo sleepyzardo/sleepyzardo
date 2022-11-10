@@ -1,5 +1,5 @@
 <p align="center">  
-<img src="https://media.discordapp.net/attachments/782612032142835733/900007819187724288/itachi-edotensei.gif">
+<img src="https://media.discordapp.net/attachments/860802917539381268/1040304623292002304/200w.gif">
 </p>
 
 

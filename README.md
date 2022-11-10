@@ -23,7 +23,7 @@ src = "https://discord.c99.nl/widget/theme-1/493320149315747840.png">
 
 # Contacts
 
-- Discord - abhii#5656 </br>
+- Discord - abhifr#5656 </br>
 - Instagram - itachi.okay</br>
 - Email - Lonely1tachi.exe@pm.me </br>
 

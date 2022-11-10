@@ -3,22 +3,22 @@
 </p>
 
 
-# Hello, I'm Itachi (@NotiTacHi)
+# Hello, I'm Itachi (@ItachiFr)
 
 <p align="center">
 <img
-src = "https://discord.c99.nl/widget/theme-1/493320149315747840.png"/>
+src = "https://discord.c99.nl/widget/theme-1/493320149315747840.png">
 </p>
 
-# My Interests
-- I make programs and scripts in Python.
-- I occasionally do Freelancing and make discord bots in Python.
-- My main focus is Python at the moment.
+# Pre-requisite Knowledge About me
+- Python </br>
+- Free most of the time, dm on dc. </br>
+- Sleepy 25/24 </br>
 
 # About Me
-- Itachi
-- 16, Delhi
-- I Like Anime
+- Itachi </br>
+- 17, Delhi </br> 
+- I Like Procrastination </br>
 
 
 # Contacts

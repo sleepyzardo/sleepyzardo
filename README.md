@@ -16,7 +16,7 @@ src = "https://discord.c99.nl/widget/theme-1/493320149315747840.png">
 - Sleepy 25/24 </br>
 
 # About Me
-- Itachi </br>
+- Abhi </br>
 - 17, Delhi </br> 
 - I Like Procrastination </br>
 

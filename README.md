@@ -28,4 +28,4 @@ src = "https://discord.c99.nl/widget/theme-1/493320149315747840.png">
 - Email - Sleepy1tachi@pm.me </br>
 
 # Updates
-- Currently working on Machine Learning Projects and implementing AI image recognition in discord.py bots.
+- wasting life >>>>
